@@ -23,3 +23,8 @@
 
 * Los sistemas de frenos y suspensión son críticos para la seguridad vial y representan los servicios de mayor rotación en un taller de carros. Saber identificar ruidos, desgastes irregulares de llantas, fallas en módulos ABS y realizar el cambio correcto de componentes genera confianza inmediata en el cliente y garantiza un flujo constante de trabajo.
 
+# Adquisición Personal
+
+##Establecer un plan de ahorro e inversión dedicado para comprar tu propia moto
+
+* Contar con una moto personal no solo resuelve tu movilidad diaria de forma eficiente y económica, sino que también se convierte en tu propio banco de pruebas práctico. Te permite aplicar directamente tus conocimientos mecánicos, realizar mantenimientos preventivos tú mismo y usarla como herramienta de transporte o trabajo para potenciar tus demás proyectos.
