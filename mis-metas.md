@@ -15,3 +15,11 @@
 ## Especializarse en la afinación de motores y sistemas de inyección electrónica (FI) de motocicletas
 
 * El parque automotor de motocicletas ha migrado masivamente de carburadores a sistemas de inyección electrónica para cumplir con normativas ambientales. Dominar la sincronización, limpieza de inyectores por ultrasonido, cuerpo de aceleración y diagnóstico de sensores te posiciona en el segmento más demandado y rentable del mantenimiento de motos actual.
+
+
+# Mecánica de Carros
+
+## Dominar el diagnóstico y reparación de sistemas de frenos (ABS/EBD) y suspensión automotriz
+
+* Los sistemas de frenos y suspensión son críticos para la seguridad vial y representan los servicios de mayor rotación en un taller de carros. Saber identificar ruidos, desgastes irregulares de llantas, fallas en módulos ABS y realizar el cambio correcto de componentes genera confianza inmediata en el cliente y garantiza un flujo constante de trabajo.
+
