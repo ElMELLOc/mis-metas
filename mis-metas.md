@@ -30,10 +30,14 @@
 * Contar con una moto personal no solo resuelve tu movilidad diaria de forma eficiente y económica, sino que también se convierte en tu propio banco de pruebas práctico. Te permite aplicar directamente tus conocimientos mecánicos, realizar mantenimientos preventivos tú mismo y usarla como herramienta de transporte o trabajo para potenciar tus demás proyectos.
 
 
-# Que quede bien conectado git 
+#   Que quede bien conectado git 
 
-* voy a hacer mi primer git push
+* Voy a hacer mi primer git push
 
-# aprender a hacer manillas tejidas
+# Aprender a hacer manillas tejidas
 
-* para ello le voy a dedicar buen tiempor a ver videos y practicar
+* Para ello le voy a dedicar buen tiempor a ver videos y practicar
+
+# Aprender una habilidad nueva
+
+* todavia no se en cual me voy a enfocar
