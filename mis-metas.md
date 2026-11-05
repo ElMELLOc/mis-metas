@@ -33,3 +33,7 @@
 # Que quede bien conectado git 
 
 * voy a hacer mi primer git push
+
+# aprender a hacer manillas tejidas
+
+* para ello le voy a dedicar buen tiempor a ver videos y practicar
