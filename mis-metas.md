@@ -28,3 +28,8 @@
 ##Establecer un plan de ahorro e inversión dedicado para comprar tu propia moto
 
 * Contar con una moto personal no solo resuelve tu movilidad diaria de forma eficiente y económica, sino que también se convierte en tu propio banco de pruebas práctico. Te permite aplicar directamente tus conocimientos mecánicos, realizar mantenimientos preventivos tú mismo y usarla como herramienta de transporte o trabajo para potenciar tus demás proyectos.
+
+
+# Que quede bien conectado git 
+
+* voy a hacer mi primer git push
